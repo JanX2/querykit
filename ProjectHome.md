@@ -1,0 +1,1 @@
+QueryKit provides a framework for interacting with relational database stores. It supports an adapter model for multiple datasources.
